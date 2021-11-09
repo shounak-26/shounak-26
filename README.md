@@ -4,5 +4,5 @@
   - Ask me about Python,C and CPP i will try my best.
   - 📫 How to reach me shounakpurnapatre1@gmail.com
 
-Connect with me:
+Connect with me 🔗:
 https://solo.to/page
