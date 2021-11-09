@@ -5,7 +5,7 @@
   - 📫 How to reach me shounakpurnapatre1@gmail.com
 
 Connect with me 🔗:
-https://solo.to/page
+https://solo.to/shounakp
 
 
 
