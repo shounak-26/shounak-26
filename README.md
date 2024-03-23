@@ -6,11 +6,7 @@
   - OR https://shounakpurnapatreportfolio.netlify.app/
 
 Connect with me 🔗:
-	- Instagram:https://www.instagram.com/_s_h_o_u_n_a_k_/
-	- LinkedIn: https://www.linkedin.com/in/shounak-purnapatre
-	- GitHub: https://github.com/shounak-26
-	- LeetCode: https://leetcode.com/_s_h_o_u_n_a_k_/
-	- Twitter: https://twitter.com/shounakpurnapa2
+	https://shounakpurnapatreportfolio.netlify.app/
 
 
 
